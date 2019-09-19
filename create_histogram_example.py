@@ -1,10 +1,11 @@
 
 def create_histogram(arr):
   histogram = {}
-  for i in arr:
-    if i not in histogram:
-      histogram[i] = 0
-    histogram[i] += 1
+  for i in range(0, len(arr), 1):
+    k = arr[i]
+    if k not in histogram:
+      histogram[k] = 0
+    histogram[k] += 1
   return histogram
 
 
