@@ -1,0 +1,30 @@
+lessons:
+
+data repsentation: tuples vs dicts vs lists
+    lessons:
+        illustrate:
+            tuple: points, pairs
+            dict: named, pairs, quick access
+            list: quick iteration
+    questionaire:
+        use what for what?
+    programming practice:
+        using tuple to record points, summed distance
+        dict to specify options (drawing something)
+        convert list of points to list of dict points
+        data analytics
+        faster computation
+advanced lessons
+    lessons:
+        illustrate:
+            class
+            linked list
+            linked list operations:
+                construct by hand
+                loop through
+                push to front
+                push to back
+    programming practice:
+        make your own
+        
+        
